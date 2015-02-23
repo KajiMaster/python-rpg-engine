@@ -4,13 +4,6 @@ import consts
 from background import Background
 import player
 
-"""
-Change to test my git skills
-
-Second change. I should only have to push right?
-
-"""
-
 
 class Game():
     def __init__(self):
